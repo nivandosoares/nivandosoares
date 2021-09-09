@@ -14,9 +14,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nivandosoares.nivandosoares)
 
 <br/>
+<hr>
 
-**languages and tools:**
-  
+**languages and tools:** 
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -28,7 +28,6 @@
 <hr>
 
 **learning:**
-
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src = "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -36,11 +35,10 @@
 <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+<hr>
 **favorite/most used os:**
-
 <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 **📈 my github stats**
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nivandosoares&show_icons=true&theme=gotham" alt="nivandosoares stats" />

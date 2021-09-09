@@ -9,11 +9,11 @@
 <a href = "www.behance.net/nivando">
     <img align = "left" alt = "Behance" width = "90px" src = "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 
-<br>
+<br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=nivandosoares.nivandosoares)
 
-<br />
+<br/>
 
 **languages and tools:**  
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

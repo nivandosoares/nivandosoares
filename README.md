@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/nivando/">
   <img align="left" alt="LinkedIN" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href = "www.behance.net/nivando">
+<a href = "https://www.behance.net/nivandosoares">
     <img align = "left" alt = "Behance" width = "90px" src = "https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 

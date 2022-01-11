@@ -34,5 +34,5 @@
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 **📈 my github stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nivandosoares&show_icons=true&theme=gotham" alt="nivandosoares stats" />
-<p align = "center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivandosoares&theme=gotham"/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=nivandosoares&show_icons=true&theme=gotham" alt="nivandosoares stats" />
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivandosoares&theme=gotham"/>

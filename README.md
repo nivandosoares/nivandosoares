@@ -35,4 +35,4 @@
 
 **📈 my github stats**
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nivandosoares&show_icons=true&theme=gotham" alt="nivandosoares stats" />
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivandosoares&theme=gotham"/>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivandosoares&theme=gotham&hide=Makefile"/>
